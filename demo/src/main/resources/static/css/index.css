@@ -1,0 +1,10 @@
+#main-cont {
+  width: 60%;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+#pageing ul {
+  display: flex;
+  justify-content: center;
+}
